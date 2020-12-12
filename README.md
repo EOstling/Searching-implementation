@@ -1,2 +1,2 @@
 # Searching-implementation
-Searching implementation in C++ using dynamic memory
+Searching implementation in C++
